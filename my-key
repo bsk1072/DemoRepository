@@ -1,1 +1,15 @@
 Nzk1NzA3OTg3MjcyNDAwOTY2.X_NSzw.gljJSu1t2NkY7PN78N-rAH9OPus
+
+[Discord]
+key={Nzk1NzA3OTg3MjcyNDAwOTY2.X_NSzw.gljJSu1t2NkY7PN78N-rAH9OPus}
+
+[Email]
+to = bsk1072@gmail.com
+smtp_username = bsk1072@gmail.com
+smtp_server = smtp.gmail.com
+smtp_port = 587
+smtp_password = 
+
+[Clustering]
+# Messages that appear within the time period are grouped together
+clustering_period = 60
